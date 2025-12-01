@@ -8,7 +8,7 @@ subgraph TOPROW [ ]
     A3([3. ⚙️ Preprocess Data]):::process
     A4([4. 📊 PCA Analysis]):::process
     A5([5. 🧬 Identify PAM50 & ✨ Feature Selection]):::process
-    A6([6. 📝 Select Model\n(Random Forest)]):::model
+    A6[6. 📝 Select Model - Random Forest]:::model
 end
 
 %% --- Vertical flow after model selection ---
@@ -41,6 +41,7 @@ classDef output fill:#66BB6A,stroke:#2E7D32,color:#fff;
 classDef monitor fill:#26A69A,stroke:#004D40,color:#fff;
 
 ```
+
 
 
 
