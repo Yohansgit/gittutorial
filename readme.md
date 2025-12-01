@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     %% --- Node Styles ---
     classDef start fill:#4CAF50,stroke:#1B5E20,color:#fff;
@@ -38,3 +39,5 @@ flowchart TD
     %% --- Dotted feedback arrows for loops ---
     linkStyle 12 stroke:#1565C0,stroke-width:2px,stroke-dasharray: 5 5
     linkStyle 14 stroke:#1565C0,stroke-width:2px,stroke-dasharray: 5 5
+```
+
